@@ -134,5 +134,8 @@
   .projects_container {
     width: 100%;
     margin: 0 auto;
+    min-width: 300px;
   }
 }
+
+

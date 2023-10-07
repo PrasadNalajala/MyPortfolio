@@ -35,7 +35,7 @@ export const Introduction = () => {
                 <span className="different"> is in Tech & coding</span> and I started my 
                 coding Journey.
               </h4>
-              <h4> Some of my interests apart form Coding :</h4>
+              <h4> Some of my interests apart from Coding :</h4>
               <h4 className="different">
                 <span className="icons">
                   <ExitToAppIcon />
