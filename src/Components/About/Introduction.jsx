@@ -22,17 +22,18 @@ export const Introduction = () => {
             <div className="introduction_datacontainer">
               <h4>
                 Hi Everyone, I,m {" "}
-                <span className="different">Prabadhya Upadhyay A Self Taught Full Stack Developer </span> from{" "}
+                <span className="different">Prasad Nalljala A Self Taught Full Stack Developer </span> from{" "}
                 <span className="different">
                   {" "}
-                  Indore,Madhya Pradesh (India).
+                  Anantapur,Andhra Pradesh (India).
                 </span>
-                I have completed my Graduation in Bcom Honours from{" "}
+                I have completed my Graduation in Bsc Computers from{" "}
                 <span className="different">
-                Devi Ahilya Vishwavidyalaya, Indore (M.P).
+                SSBN Degree College, Anantapur (A.P).
                 </span>
-                Later I discovered that my interest{" "}
-                <span className="different"> is in Tech & coding</span> and I started my 
+                I've been passionate about tech since childhood.{" "}
+                <span className="different"> and I started my 
+                coding Journey</span> and I started my 
                 coding Journey.
               </h4>
               <h4> Some of my interests apart from Coding :</h4>
@@ -46,7 +47,7 @@ export const Introduction = () => {
                 <span className="icons">
                   <ExitToAppIcon />
                 </span>
-                Playing Football{" "}
+                Playing Cricket{" "}
               </h4>
               <h4 className="different">
                 <span className="icons">
