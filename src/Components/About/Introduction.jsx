@@ -17,7 +17,7 @@ export const Introduction = () => {
           </h2>
           <div className={"introduction " + themename}>
             <div className="introduction_logocontainer">
-              <img src="https://ibb.co/7XL67DB" alt="Images" />
+              <img src="https://lh3.googleusercontent.com/pw/ABLVV87ontGCiuwVjghlgHY4j0vpqJgLyhbgSAjTtKR0Mg10nRnb4O1ciN6cRtckEyP2YPOGLWp7HKFnc9BLBoLjYPJtStFt5BFZZy5IrUw5PiNuIe0uQSjW3hFbQpjwmQuzK9oEu8qRddTdqZw5F3xJUWOJ=w612-h612-s-no-gm" alt="Images" />
             </div>
             <div className="introduction_datacontainer">
               <h4>
