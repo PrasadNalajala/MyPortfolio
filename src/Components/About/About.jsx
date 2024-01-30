@@ -18,19 +18,15 @@ export const About = () => {
     <>
       <div className="about center">
         <h1 data-aos="fade-right" className="mobileHead">
-          Hello, I am <span className="about__name">Prabadhya Upadhyay</span>
+          Hello, I am <span className="about__name">Prasad Nallajala</span>
         </h1>
         <Type />
         <p className="about__desc" data-aos="fade-right">
-          Passionate and creative Full Stack Developer having proficiency in
-          MERN Stack. Excited about developing user-friendly web applications
-          with the ability to write clean, reusable, and optimized code. Have
-          problem-solving skills and the ability to perform well in a team &
-          challenging work environment.
+          "Tech enthusiast with a focus on Full Stack Development, specializing in MERN Stack. Dedicated to crafting user-friendly web applications with a knack for clean, efficient code. Thrives in collaborative environments and embraces challenges with a problem-solving mindset."
         </p>
         <div className="about__contact center">
           <a
-            href="https://github.com/Rickey07"
+            href="https://github.com/prasadNalajala"
             aria-label="github"
             target="_blank"
             rel="noreferrer"
@@ -39,7 +35,7 @@ export const About = () => {
             <GitHubIcon />
           </a>
           <a
-            href="mailto:Rickeyrickey747@gmail.com"
+            href="mailto:prasadnallajala@gmail.com"
             target="_blank"
             rel="noreferrer"
             aria-label="mail"
@@ -48,7 +44,7 @@ export const About = () => {
             <EmailIcon />
           </a>
           <a
-            href="tel:+8770898508"
+            href="tel:+919347190335"
             target="_blank"
             rel="noreferrer"
             aria-label="phone"
@@ -57,7 +53,7 @@ export const About = () => {
             <PhoneIcon />
           </a>
           <a
-            href="https://www.linkedin.com/in/prabadhya-upadhyay-4272881a1/"
+            href="https://www.linkedin.com/in/prasad-nallajala/"
             aria-label="linkedin"
             className="link link--icon"
             target="_blank"
@@ -66,7 +62,7 @@ export const About = () => {
             <LinkedInIcon />
           </a>
           <a
-            href="https://twitter.com/Prabadhya_U"
+            href="https://twitter.com/prasadNalajala"
             aria-label="linkedin"
             className="link link--icon"
             target="_blank"
@@ -74,15 +70,7 @@ export const About = () => {
           >
             <TwitterIcon />
           </a>
-          <a
-            href="https://prabadhya-blogs.hashnode.dev/"
-            aria-label="linkedin"
-            className="link link--icon"
-            target="_blank"
-            rel="noreferrer"
-          >
-            <SiHashnode />
-          </a>
+          
          
          
         </div>
@@ -91,7 +79,7 @@ export const About = () => {
           className="btnResume"
           onClick={() => {
             window.open(
-              "https://drive.google.com/file/d/1YYdBT0rMeIyNs71iHM-2rDyT1V-vEuft/view?usp=sharing"
+              "https://docs.google.com/document/d/1kHw-x18-UdUyRl0nu1JRPIEysJqE8LCi/edit"
             );
           }}
         >
