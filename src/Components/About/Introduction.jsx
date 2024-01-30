@@ -17,7 +17,7 @@ export const Introduction = () => {
           </h2>
           <div className={"introduction " + themename}>
             <div className="introduction_logocontainer">
-              <img src={profilePic} alt="Images" />
+              <img src="https://ibb.co/7XL67DB" alt="Images" />
             </div>
             <div className="introduction_datacontainer">
               <h4>
